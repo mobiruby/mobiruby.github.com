@@ -78,6 +78,12 @@ iframe.speakerdeck {
   width: 100%
 }
 
+.slides-thumb300x225 {
+  width: 300px;
+  height: 225px;
+  border: 3px solid #888;
+}
+
 footer p {
   border-top: 1px solid #ddd;
   margin-top: 60px;
